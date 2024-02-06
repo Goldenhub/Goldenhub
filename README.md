@@ -22,4 +22,6 @@
 - MongoDB
 - React 
 - NodeJS
+- Web Performance
+- Web Accessibility
 - others loading...
