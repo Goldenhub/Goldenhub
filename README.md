@@ -20,7 +20,8 @@
 - PHP 
 - MySQL 
 - MongoDB
-- React 
+- React
+- Svelte/SvelteKit 
 - NodeJS
 - Web Performance
 - Web Accessibility
