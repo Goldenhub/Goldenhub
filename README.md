@@ -6,7 +6,7 @@
 #### I'm a UI Engineer and Backend developer.
 #### When it comes to anything web, just ask me and we will end up discussing for megaHours.
 
-- 🔭 I’m currently working on sourceRoute
+- 🔭 I’m currently building a product with a team
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Backend Projects
 - 💬 Ask me about anything web
