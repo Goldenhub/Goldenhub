@@ -17,10 +17,11 @@
 ## 🛠 I Speak
 - CSS
 - Javascript 
-- PHP 
+- PHP/Laravel
 - MySQL 
 - MongoDB
 - React
+- NextJS
 - Svelte/SvelteKit 
 - NodeJS
 - Web Performance
