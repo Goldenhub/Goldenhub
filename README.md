@@ -6,24 +6,29 @@
 #### I'm a UI Engineer and Backend developer.
 #### When it comes to anything web, just ask me and we will end up discussing for megaHours.
 
-- 🔭 I’m currently building a product with a team
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently building a brand with my team
+- 🌱 TypeScripting
 - 👯 I’m looking to collaborate on Backend Projects
 - 💬 Ask me about anything web
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/goldenazubuike) | [Twitter(X)](https://twitter.com/chibue_exe)
-- ⚡ Fun fact: 🤔I prefer Vanilla JS and CSS
+- ⚡ Fun fact: 🤔I love Vanilla JS and CSS
 - 🤾🏽‍♂️ Favorite Sport: Soccer ⚽🥅
 
-## 🛠 I Speak
+## 🛠 Tools in the box
 - CSS
-- Javascript 
+- TailwindCSS
+- Nativewind
+- Javascript
+- Litjs
 - PHP/Laravel
-- MySQL 
+- MySQL
+- MSSQL
 - MongoDB
-- React
-- NextJS
+- CI/CD
+- React/NextJS
+- React-native/Expo
 - Svelte/SvelteKit 
 - NodeJS
-- Web Performance
-- Web Accessibility
-- others loading...
+- Express
+- Web Performance and Accessibility
+- loading...
