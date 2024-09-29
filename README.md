@@ -3,7 +3,7 @@
 ## I am Azubuike Golden
 
 ## 🚀 About Me
-#### I'm a UI Engineer and Backend developer.
+#### I'm a UI and Backend developer.
 #### When it comes to anything web, just ask me and we will end up discussing for megaHours.
 
 - 🔭 I’m currently building a brand with my team
