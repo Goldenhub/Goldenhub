@@ -1,8 +1,8 @@
 
 # Hi👋 
-## I am Azubuike Golden
+## It's Golden
 
-## 🚀 About Me
+## 👤 About Me
 #### I'm a UI and Backend developer.
 #### When it comes to anything web, just ask me and we will end up discussing for megaHours.
 
@@ -12,23 +12,17 @@
 - 💬 Ask me about anything web
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/goldenazubuike) | [Twitter(X)](https://twitter.com/chibue_exe)
 - ⚡ Fun fact: 🤔I love Vanilla JS and CSS
-- 🤾🏽‍♂️ Favorite Sport: Soccer ⚽🥅
+- 🤾🏽‍♂️ Favorite Sport: Football ⚽🥅
 
 ## 🛠 Tools in the box
-- CSS
-- TailwindCSS
-- Nativewind
 - Javascript
-- Litjs
-- PHP/Laravel
+- TypeScript
+- React/NextJS
+- React-native/Expo
+- NodeJS / ExpressJS / NestJS
+- PHP / Laravel
+- C# / ASP.NET Core
 - MySQL
 - MSSQL
 - MongoDB
-- CI/CD
-- React/NextJS
-- React-native/Expo
-- Svelte/SvelteKit 
-- NodeJS
-- Express
-- Web Performance and Accessibility
-- loading...
+- PostgreSQL
