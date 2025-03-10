@@ -7,7 +7,6 @@
 #### When it comes to anything web, just ask me and we will end up discussing for megaHours.
 
 - 🔭 I’m currently building a brand with my team
-- 🌱 TypeScripting
 - 👯 I’m looking to collaborate on Backend Projects
 - 💬 Ask me about anything web
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/goldenazubuike) | [Twitter(X)](https://twitter.com/chibue_exe)
@@ -15,7 +14,7 @@
 - 🤾🏽‍♂️ Favorite Sport: Football ⚽🥅
 
 ## 🛠 Tools in the box
-- Javascript
+- JavaScript
 - TypeScript
 - React/NextJS
 - React-native/Expo
