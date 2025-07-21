@@ -17,6 +17,8 @@
 - JavaScript
 - TypeScript
 - React/NextJS
+- Tanstack query
+- Redux toolkit
 - React-native/Expo
 - NodeJS / ExpressJS / NestJS
 - PHP / Laravel
